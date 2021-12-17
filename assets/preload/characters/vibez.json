@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "VibezIdle",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-9,
+				-10
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "VibezRight",
+			"indices": []
+		},
+		{
+			"offsets": [
+				93,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": true,
+			"name": "VibezLeft"
+		},
+		{
+			"offsets": [
+				54,
+				11
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": true,
+			"name": "VibezUp"
+		},
+		{
+			"offsets": [
+				50,
+				-52
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": true,
+			"name": "VibezDown"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/VibezAssets",
+	"position": [
+		-230,
+		-160
+	],
+	"healthicon": "vibez",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		155
+	],
+	"camera_position": [
+		150,
+		390
+	],
+	"sing_duration": 6.1,
+	"scale": 0.4
+}

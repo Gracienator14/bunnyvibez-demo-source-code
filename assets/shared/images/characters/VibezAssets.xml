@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Vibez.png">
+	<!-- Created with Adobe Animate version 21.0.2.37893 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="VibezDown0000" x="0" y="0" width="915" height="1190" frameX="-27" frameY="-23" frameWidth="967" frameHeight="1213"/>
+	<SubTexture name="VibezDown0001" x="0" y="0" width="915" height="1190" frameX="-27" frameY="-23" frameWidth="967" frameHeight="1213"/>
+	<SubTexture name="VibezDown0002" x="915" y="0" width="932" height="1213" frameX="0" frameY="0" frameWidth="967" frameHeight="1213"/>
+	<SubTexture name="VibezDown0003" x="915" y="0" width="932" height="1213" frameX="0" frameY="0" frameWidth="967" frameHeight="1213"/>
+	<SubTexture name="VibezDown0004" x="1847" y="0" width="896" height="1189" frameX="-18" frameY="-24" frameWidth="967" frameHeight="1213"/>
+	<SubTexture name="VibezDown0005" x="1847" y="0" width="896" height="1189" frameX="-18" frameY="-24" frameWidth="967" frameHeight="1213"/>
+	<SubTexture name="VibezDown0006" x="2743" y="0" width="875" height="1176" frameX="-44" frameY="-37" frameWidth="967" frameHeight="1213"/>
+	<SubTexture name="VibezDown0007" x="2743" y="0" width="875" height="1176" frameX="-44" frameY="-37" frameWidth="967" frameHeight="1213"/>
+	<SubTexture name="VibezDown0008" x="3618" y="0" width="958" height="1197" frameX="-9" frameY="-16" frameWidth="967" frameHeight="1213"/>
+	<SubTexture name="VibezDown0009" x="3618" y="0" width="958" height="1197" frameX="-9" frameY="-16" frameWidth="967" frameHeight="1213"/>
+	<SubTexture name="VibezDown0010" x="3618" y="0" width="958" height="1197" frameX="-9" frameY="-16" frameWidth="967" frameHeight="1213"/>
+	<SubTexture name="VibezDown0011" x="4576" y="0" width="958" height="1197" frameX="-9" frameY="-16" frameWidth="967" frameHeight="1213"/>
+	<SubTexture name="VibezDown0012" x="4576" y="0" width="958" height="1197" frameX="-9" frameY="-16" frameWidth="967" frameHeight="1213"/>
+	<SubTexture name="VibezIdle0000" x="5534" y="0" width="711" height="1300" frameX="-64" frameY="-58" frameWidth="849" frameHeight="1358"/>
+	<SubTexture name="VibezIdle0001" x="5534" y="0" width="711" height="1300" frameX="-64" frameY="-58" frameWidth="849" frameHeight="1358"/>
+	<SubTexture name="VibezIdle0002" x="6245" y="0" width="795" height="1290" frameX="-7" frameY="-68" frameWidth="849" frameHeight="1358"/>
+	<SubTexture name="VibezIdle0003" x="6245" y="0" width="795" height="1290" frameX="-7" frameY="-68" frameWidth="849" frameHeight="1358"/>
+	<SubTexture name="VibezIdle0004" x="7040" y="0" width="738" height="1317" frameX="-48" frameY="-41" frameWidth="849" frameHeight="1358"/>
+	<SubTexture name="VibezIdle0005" x="7040" y="0" width="738" height="1317" frameX="-48" frameY="-41" frameWidth="849" frameHeight="1358"/>
+	<SubTexture name="VibezIdle0006" x="0" y="1317" width="783" height="1339" frameX="-17" frameY="-19" frameWidth="849" frameHeight="1358"/>
+	<SubTexture name="VibezIdle0007" x="0" y="1317" width="783" height="1339" frameX="-17" frameY="-19" frameWidth="849" frameHeight="1358"/>
+	<SubTexture name="VibezIdle0008" x="783" y="1317" width="849" height="1358"/>
+	<SubTexture name="VibezIdle0009" x="783" y="1317" width="849" height="1358"/>
+	<SubTexture name="VibezIdle0010" x="783" y="1317" width="849" height="1358"/>
+	<SubTexture name="VibezIdle0011" x="783" y="1317" width="849" height="1358"/>
+	<SubTexture name="VibezIdle0012" x="783" y="1317" width="849" height="1358"/>
+	<SubTexture name="VibezIdle0013" x="783" y="1317" width="849" height="1358"/>
+	<SubTexture name="VibezIdle0014" x="783" y="1317" width="849" height="1358"/>
+	<SubTexture name="VibezLeft0000" x="1632" y="1317" width="927" height="1387" frameX="-55" frameY="-23" frameWidth="982" frameHeight="1410"/>
+	<SubTexture name="VibezLeft0001" x="1632" y="1317" width="927" height="1387" frameX="-55" frameY="-23" frameWidth="982" frameHeight="1410"/>
+	<SubTexture name="VibezLeft0002" x="2559" y="1317" width="950" height="1404" frameX="-32" frameY="-6" frameWidth="982" frameHeight="1410"/>
+	<SubTexture name="VibezLeft0003" x="2559" y="1317" width="950" height="1404" frameX="-32" frameY="-6" frameWidth="982" frameHeight="1410"/>
+	<SubTexture name="VibezLeft0004" x="3509" y="1317" width="982" height="1410"/>
+	<SubTexture name="VibezLeft0005" x="3509" y="1317" width="982" height="1410"/>
+	<SubTexture name="VibezLeft0006" x="4491" y="1317" width="953" height="1399" frameX="-29" frameY="-11" frameWidth="982" frameHeight="1410"/>
+	<SubTexture name="VibezLeft0007" x="4491" y="1317" width="953" height="1399" frameX="-29" frameY="-11" frameWidth="982" frameHeight="1410"/>
+	<SubTexture name="VibezLeft0008" x="5444" y="1317" width="953" height="1399" frameX="-29" frameY="-11" frameWidth="982" frameHeight="1410"/>
+	<SubTexture name="VibezLeft0009" x="5444" y="1317" width="953" height="1399" frameX="-29" frameY="-11" frameWidth="982" frameHeight="1410"/>
+	<SubTexture name="VibezLeft0010" x="6397" y="1317" width="953" height="1399" frameX="-29" frameY="-11" frameWidth="982" frameHeight="1410"/>
+	<SubTexture name="VibezLeft0011" x="6397" y="1317" width="953" height="1399" frameX="-29" frameY="-11" frameWidth="982" frameHeight="1410"/>
+	<SubTexture name="VibezLeft0012" x="6397" y="1317" width="953" height="1399" frameX="-29" frameY="-11" frameWidth="982" frameHeight="1410"/>
+	<SubTexture name="VibezLeft0013" x="6397" y="1317" width="953" height="1399" frameX="-29" frameY="-11" frameWidth="982" frameHeight="1410"/>
+	<SubTexture name="VibezLeft0014" x="6397" y="1317" width="953" height="1399" frameX="-29" frameY="-11" frameWidth="982" frameHeight="1410"/>
+	<SubTexture name="VibezRight0000" x="0" y="2727" width="848" height="1293" frameX="0" frameY="-53" frameWidth="978" frameHeight="1357"/>
+	<SubTexture name="VibezRight0001" x="0" y="2727" width="848" height="1293" frameX="0" frameY="-53" frameWidth="978" frameHeight="1357"/>
+	<SubTexture name="VibezRight0002" x="848" y="2727" width="910" height="1332" frameX="-7" frameY="-25" frameWidth="978" frameHeight="1357"/>
+	<SubTexture name="VibezRight0003" x="848" y="2727" width="910" height="1332" frameX="-7" frameY="-25" frameWidth="978" frameHeight="1357"/>
+	<SubTexture name="VibezRight0004" x="1758" y="2727" width="973" height="1357" frameX="-5" frameY="0" frameWidth="978" frameHeight="1357"/>
+	<SubTexture name="VibezRight0005" x="1758" y="2727" width="973" height="1357" frameX="-5" frameY="0" frameWidth="978" frameHeight="1357"/>
+	<SubTexture name="VibezUp0000" x="2731" y="2727" width="942" height="1345" frameX="-98" frameY="-42" frameWidth="1040" frameHeight="1387"/>
+	<SubTexture name="VibezUp0001" x="2731" y="2727" width="942" height="1345" frameX="-98" frameY="-42" frameWidth="1040" frameHeight="1387"/>
+	<SubTexture name="VibezUp0002" x="3673" y="2727" width="985" height="1368" frameX="-52" frameY="-19" frameWidth="1040" frameHeight="1387"/>
+	<SubTexture name="VibezUp0003" x="3673" y="2727" width="985" height="1368" frameX="-52" frameY="-19" frameWidth="1040" frameHeight="1387"/>
+	<SubTexture name="VibezUp0004" x="4658" y="2727" width="1009" height="1387" frameX="0" frameY="0" frameWidth="1040" frameHeight="1387"/>
+	<SubTexture name="VibezUp0005" x="4658" y="2727" width="1009" height="1387" frameX="0" frameY="0" frameWidth="1040" frameHeight="1387"/>
+	<SubTexture name="VibezUp0006" x="5667" y="2727" width="1009" height="1387" frameX="0" frameY="0" frameWidth="1040" frameHeight="1387"/>
+	<SubTexture name="VibezUp0007" x="5667" y="2727" width="1009" height="1387" frameX="0" frameY="0" frameWidth="1040" frameHeight="1387"/>
+	<SubTexture name="VibezUp0008" x="5667" y="2727" width="1009" height="1387" frameX="0" frameY="0" frameWidth="1040" frameHeight="1387"/>
+</TextureAtlas>

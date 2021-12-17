@@ -1,0 +1,39 @@
+{
+	"storyName": "Star Exploration",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"songs": [
+		[
+			"Starlight",
+			"vibez",
+			[
+				255,
+				0,
+				155
+			]
+		],
+		[
+			"Comets",
+			"vibez",
+			[
+				255,
+				0,
+				155
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"weekName": "Custom Week"
+}
